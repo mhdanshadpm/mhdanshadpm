@@ -15,4 +15,4 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ## 📫 How to reach me
 - Email: [mhdanshadpm@gmail.com](mailto:mhdanshadpm@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/muhammad-anshad-b52a61145/](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-anshad-b52a61145/
+- LinkedIn: [https://www.linkedin.com/in/muhammad-anshad-b52a61145/](https://www.linkedin.com/in/muhammad-anshad-b52a61145/)
