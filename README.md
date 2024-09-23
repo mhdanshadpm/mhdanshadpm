@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 ## 💼 Skills
 - **Front-end**: JavaScript, React.js, Angular
-- **Back-end**: Node.js, Django
+- **Back-end**: Laravel, Yii
 - **Mobile**: React Native, Flutter
 - **Database**: MongoDB, Firebase, SQL
-- **Other**: Laravel, Bubble.io
+- **Other**:Bubble.io
 
 ## 📫 How to reach me
 - Email: [mhdanshadpm@gmail.com](mailto:mhdanshadpm@gmail.com)
